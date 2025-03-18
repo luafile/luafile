@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1351381332290437181/1351388943517487204/luafilepng.png?ex=67da3287&is=67d8e107&hm=a7694ffc778dfcf92fedd6fea6004dcf255a1dc7cc540e15f916830f1d0ae787&" alt="Lua"/>
 
-<!--
-**luafile/luafile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  ```welcome, i think we will share some here.```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  <div>
+    <img src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua" alt="Lua"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="Git"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </div>
+</div>
