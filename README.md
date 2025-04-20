@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1351381332290437181/1351388943517487204/luafilepng.png?ex=67da3287&is=67d8e107&hm=a7694ffc778dfcf92fedd6fea6004dcf255a1dc7cc540e15f916830f1d0ae787&" alt="Lua"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kV9z96yZ/luaf.png" alt="luaf" border="0"></a>
 
   
   ```welcome, i think we will share some here.```
